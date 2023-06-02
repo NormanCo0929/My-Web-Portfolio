@@ -461,6 +461,7 @@ span {
 
   .about {
     flex-direction: column-reverse;
+    padding-top: 0;
   }
 
   .about img {
