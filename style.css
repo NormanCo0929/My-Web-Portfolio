@@ -233,7 +233,7 @@ span {
 }
 
 .project {
-  background: var(--second-bg-color);
+  background: var(--bg-color);
 }
 
 .project h2 {
@@ -286,11 +286,11 @@ span {
 }
 
 .project-layer h4 {
-  font-size: 3rem;
+  font-size: 2.4rem;
 }
 
 .project-layer p {
-  font-size: 1.6rem;
+  font-size: 1.2rem;
   margin: .3rem 0 1rem;
 }
 
@@ -307,6 +307,10 @@ span {
 .project-layer a i {
   font-size: 2rem;
   color: var(--second-bg-color);
+}
+
+.contact {
+  background: var(--second-bg-color);
 }
 
 .contact h2 {
@@ -332,7 +336,7 @@ span {
   padding: 1.5rem;
   font-size: 1.6rem;
   color: var(--text-color);
-  background: var(--second-bg-color);
+  background: var(--bg-color);
   border-radius: .8rem;
   margin: .7rem 0;
 }
@@ -356,7 +360,7 @@ span {
   align-items: center;
   flex-wrap: wrap;
   padding: 2rem 9%;
-  background: var(--second-bg-color);
+  background: var(--bg-color);
 }
 
 .footer-text p {
